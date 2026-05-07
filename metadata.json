@@ -1,0 +1,5 @@
+{
+  "name": "LumiCheck",
+  "description": "Aplicativo para análise de qualidade de iluminação de ambientes internos utilizando processamento de imagens.",
+  "requestFramePermissions": ["camera"]
+}
